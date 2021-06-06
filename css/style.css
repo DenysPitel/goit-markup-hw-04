@@ -118,6 +118,9 @@ img {
 }
 
 .nav-cont {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.143em;
   display: flex;
   margin-left: auto;
 }
@@ -149,9 +152,7 @@ img {
 
 /* Title section
 =================== */
-.title {
-  background: var(--fons-title-color);
-}
+
 .title.section {
   padding: 200px 0;
   text-align: center;
@@ -526,9 +527,7 @@ img {
 /* Footer social */
 
 .foot-cocial-sect {
-  width: 206px;
-  height: 80px;
-  margin: 72px auto 100px 70px;
+  margin-left: 72px;
 }
 
 .foot-name {
